@@ -2,9 +2,9 @@
 
 - 🌱 Estundando html, css e js
 <div align="center">
-  <a href="https://github.com/caioplf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioplf&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioplf&layout=compact&langs_count=7&theme=nightowl"/>
+  <a href="https://github.com/Caioplf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caioplf&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioplf&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
