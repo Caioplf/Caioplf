@@ -1,0 +1,158 @@
+body{
+  background-color: black;
+}
+
+#alinhamento{
+position: absolute;
+width: 398px;
+height: 853px;
+left: 172px;
+top: 61px;
+
+
+border-radius: 30px;
+}
+
+#background{
+  position: absolute;
+  width: 398px;
+  height: 853px;
+  left: 172px;
+  top: 0px;
+  mix-blend-mode: normal;
+  box-shadow: 1px 3px 5px #000000;
+  background: url(../img/background32.png);
+}
+
+#information{
+ font-family: 'Work Sans','Sans Serif';
+ font-style: normal;
+ font-size: 20px;
+ color: #ffffff;
+ letter-spacing: -0.02em;
+ text-align: center;
+ text-shadow: 0px 4px 4px #0E0E0E;
+ line-height: 20px;
+}
+
+h1{
+  font-size: 48px;
+}
+
+.foto:hover{
+  background: transparent;
+  box-shadow: 0px 0px 5px #30e8df, inset 0px 0px 5px #30e8df;
+  border-radius: 125px;
+}
+
+ul{
+  position: absolute;
+  width: 379px;
+  height: 372px;
+  left: 3px;
+  top: 416px;
+}
+li{
+  list-style-position: inside;
+  text-align: left;
+  padding: 0;
+  margin-bottom: 25px;
+  position: relative;
+  right: 33px;
+  top: -50px;  
+}
+.link{
+  text-decoration: none;
+}
+#github{
+  color: #ffffff;
+  text-align: left;
+  padding: 10px;
+  text-shadow: 1px 4px 4px #000000;
+  text-transform: none;
+
+
+  font-family: 'Work Sans', 'Sans-Serif';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: -0.02em;
+  list-style-image: url(../img/github_1.png);
+  /* list-style-type: none; */
+
+  background: rgba(28, 27, 27, 0.75);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #1A00BF, inset 2px 4px 4px #1A00BF;
+  border-radius: 30px;
+}
+
+#github:hover{
+  background: rgba(28, 27, 27, 0.35);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #E83061, inset 2px 4px 4px #E83061;
+  border-radius: 25px;
+  list-style-image: url(../img/github_1.png);
+}
+
+#linkedin{
+  color: #ffffff;
+  text-align: left;
+  padding: 10px;
+  text-shadow: 1px 4px 4px #000000;
+  text-transform: none;
+
+  font-family: 'Work Sans', 'Sans-Serif';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: -0.02em;
+  list-style-image: url(../img/linkedin_1.png);
+
+  background: rgba(28, 27, 27, 0.75);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #1A00BF, inset 2px 4px 4px #1A00BF;
+  border-radius: 30px;
+}
+
+#linkedin:hover{
+  background: rgba(28, 27, 27, 0.35);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #E83061, inset 2px 4px 4px #E83061;
+  border-radius: 25px;
+}
+
+#instagram{
+  color: #ffffff;
+  text-align: left;
+  padding: 10px;
+  text-shadow: 1px 4px 4px #000000;
+  text-transform: none;
+
+  font-family: 'Work Sans', 'Sans-Serif';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: -0.02em;
+  list-style-image: url(../img/insta_1.png);
+
+  background: rgba(28, 27, 27, 0.75);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #1A00BF, inset 2px 4px 4px #1A00BF;
+  border-radius: 30px;
+}
+
+#instagram:hover{
+  background: rgba(28, 27, 27, 0.35);
+  border: 1px solid rgba(2, 2, 2, 0.15);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px #E83061, inset 2px 4px 4px #E83061;
+  border-radius: 25px;
+}
